@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "elasticsearch": "^15.0.0"
+  },
+  "name": "es-queue",
+  "version": "0.1.0",
+  "description": "Queue up lots of docs to be inserted into Elasticsearch",
+  "main": "index.js",
+  "author": "Lukas Olson <olson.lukas@gmail.com>",
+  "license": "MIT"
+}
